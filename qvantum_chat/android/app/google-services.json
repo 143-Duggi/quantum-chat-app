@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "598029138727",
+    "firebase_url": "https://qvantum-chat-default-rtdb.firebaseio.com",
+    "project_id": "qvantum-chat",
+    "storage_bucket": "qvantum-chat.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598029138727:android:4c70e65cb5f8bc317ac702",
+        "android_client_info": {
+          "package_name": "com.example.qvantum_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDkS8p-cyg6Nzl5JkPjsjAK0nmS_POlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
